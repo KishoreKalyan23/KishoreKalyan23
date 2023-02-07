@@ -2,8 +2,7 @@
 
 
   - 👀 I’m interested in Program Developing...
-  - 🌱 I’m currently Waiting for good Job...
-  - 💞️ I’m looking to collaborate on IT Sector...
+
   - 📫 How to reach me..
   -         Gmail Id : kishorekk023@gmail.com
   -         Contact  : 9677735859
