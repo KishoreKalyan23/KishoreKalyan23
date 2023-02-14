@@ -5,8 +5,9 @@
   - 😎 Good coding skill in :-
   -     Python
   -     Angular
-  - 🅼L Machine Learning developer...
-  - 👨‍💻 Currently Working in IT Sector
+  - Current Profession
+  -     🅼L Machine Learning developer...
+  -     👨‍💻 Currently Working in IT Sector
   - 📫 How to reach me..
   -         Gmail Id : kishorekk023@gmail.com
   -         Contact  : 9677735859
