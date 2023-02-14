@@ -2,7 +2,8 @@
 
 
   - 👀 I’m interested in Program Developing...
-
+  - 🅼L I'm a Machine Learning developer...
+  - 👨‍💻 Currently Working in IT Sector
   - 📫 How to reach me..
   -         Gmail Id : kishorekk023@gmail.com
   -         Contact  : 9677735859
